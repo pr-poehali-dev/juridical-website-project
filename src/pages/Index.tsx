@@ -76,7 +76,7 @@ const Index = () => {
         <div className="container mx-auto px-4 py-4">
           <div className="flex justify-between items-center">
             <div className="font-display text-2xl font-bold text-secondary">
-              Мина <span className="text-primary">и партнеры</span>
+              ЛегалПро <span className="text-primary">Крым</span>
             </div>
             
             <div className="hidden md:flex items-center space-x-8">
@@ -342,7 +342,7 @@ const Index = () => {
       {/* Footer */}
       <footer className="py-8 bg-gray-900 text-gray-400">
         <div className="container mx-auto px-4 text-center">
-          <p>&copy; 2024 Мина и партнеры. Все права защищены.</p>
+          <p>&copy; 2024 ЛегалПро Крым. Все права защищены.</p>
         </div>
       </footer>
 
